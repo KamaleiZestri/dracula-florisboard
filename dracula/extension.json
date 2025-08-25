@@ -1,0 +1,78 @@
+{
+  "$": "ime.extension.theme",
+  "meta": {
+    "id": "io.github.venem",
+    "version": "0.3.14",
+    "title": "Dracula",
+    "maintainers": [
+      "Venem"
+    ],
+    "license": "MIT"
+  },
+  "themes": [
+    {
+      "id": "draculapurple",
+      "label": "Dracula Purple",
+      "authors": [
+        "venem"
+      ]
+    },
+    {
+      "id": "draculaorange",
+      "label": "Dracula Orange",
+      "authors": [
+        "venem"
+      ]
+    },
+    {
+      "id": "draculaplain",
+      "label": "Dracula Plain",
+      "authors": [
+        "venem"
+      ]
+    },
+    {
+      "id": "draculacyan",
+      "label": "Dracula Cyan",
+      "authors": [
+        "venem"
+      ]
+    },
+    {
+      "id": "draculapink",
+      "label": "Dracula Pink",
+      "authors": [
+        "venem"
+      ]
+    },
+    {
+      "id": "draculagreen",
+      "label": "Dracula Green",
+      "authors": [
+        "venem"
+      ]
+    },
+    {
+      "id": "draculared",
+      "label": "Dracula Red",
+      "authors": [
+        "venem"
+      ]
+    },
+    {
+      "id": "draculayellow",
+      "label": "Dracula Yellow",
+      "authors": [
+        "venem"
+      ]
+    },
+    {
+      "id": "draculaplainborderless",
+      "label": "Dracula Plain (Borderless)",
+      "authors": [
+        "venem"
+      ],
+      "isBorderless": true
+    }
+  ]
+}
