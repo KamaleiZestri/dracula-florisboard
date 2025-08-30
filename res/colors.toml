@@ -1,0 +1,81 @@
+[plain] #default. loaded as "draculaplain". any color not listed, defaults to the one here
+primary = "rgba(170,132,224,1)"
+primary-variant = "rgba(189,147,249,1)"
+secondary = "rgba(170,132,224,1)"
+secondary-variant = "rgba(189,147,249,1)"
+background = "rgba(40,42,54,1)" #typically default on variants
+surface = "rgba(68,71,90,1)"
+surface-variant = "rgba(189,147,249,1)"
+on-background = "rgba(248,248,242,1)" #typcially default on variants
+on-surface = "rgba(248,248,242,1)"  #typically default on variants
+on-surface-variant = "rgba(196,196,192,1)"
+shape = "rounded-corner(8dp,8dp,8dp,8dp)"   #typically default on variants
+shape-variant = "rounded-corner(12dp,12dp,12dp,12dp)" #typically default on variants
+
+[cyan]
+primary = "rgba(124,208,226,1)"
+primary-variant = "rgba(141,233,253,1)"
+secondary = "rgba(124,208,226,1)"
+secondary-variant = "rgba(139,233,253,1)"
+# background = "rgba(40,42,54,1)"
+surface = "rgba(68,114,124,1)"
+surface-variant = "rgba(197, 203, 204, 1)"
+# on-background = "rgba(248,248,242,1)"
+# on-surface = "rgba(248,248,242,1)"
+on-surface-variant = "rgba(139,233,253,1)"
+# shape = "rounded-corner(8dp,8dp,8dp,8dp)"
+# shape-variant = "rounded-corner(12dp,12dp,12dp,12dp)"
+
+[pink]
+primary = "rgba(229,107,176,1)"
+primary-variant = "rgba(255,121,198,1)"
+secondary = "rgba(229,107,176,1)"
+secondary-variant = "rgba(255,121,198,1)"
+surface = "rgba(127,59,98,1)"
+surface-variant = "rgba(255,121,198,1)"
+on-surface-variant ="rgba(255,121,198,1)"
+
+[green]
+primary = "rgba(71,224,109,1)"
+primary-variant = "rgba(80,250,123,1)"
+secondary = "rgba(71,224,109,1)"
+secondary-variant = "rgba(80,250,123,1)"
+surface = "rgba(39,122,59,1)"
+surface-variant = "rgba(80,250,123,1)"
+on-surface-variant = "rgba(80,250,123,1)"
+
+[orange]
+primary = "rgba(229,165,96,1)"
+primary-variant = "rgba(255,184,108,1)"
+secondary = "rgba(229,165,96,1)"
+secondary-variant = "rgba(255,184,108,1)"
+surface = "rgba(127,91,53,1)"
+surface-variant = "rgba(255,184,108,1)"
+on-surface-variant = "rgba(255,184,108,1)"
+
+[purple]
+primary = "rgba(170,132,224,1)"
+primary-variant = "rgba(189,147,249,1)"
+secondary = "rgba(170,132,224,1)"
+secondary-variant = "rgba(189,147,249,1)"
+surface = "rgba(93,72,122,1)"
+surface-variant = "rgba(189,147,249,1)"
+on-surface-variant = "rgba(189,147,249,1)"
+
+[red]
+primary = "rgba(229,75,75,1)"
+primary-variant = "rgba(255,85,85,1)"
+secondary = "rgba(229,75,75,1)"
+secondary-variant = "rgba(255,85,85,1)"
+surface = "rgba(127,42,42,1)"
+surface-variant = "rgba(255,85,85,1)"
+on-surface-variant = "rgba(255,85,85,1)"
+
+[yellow]
+primary = "rgba(216,224,125,1)"
+primary-variant = "rgba(241,250,140,1)"
+secondary = "rgba(216,224,125,1)"
+secondary-variant = "rgba(241,250,140,1)"
+surface = "rgba(117,122,68,1)"
+surface-variant = "rgba(241,250,140,1)"
+on-surface-variant = "rgba(241,250,140,1)"
