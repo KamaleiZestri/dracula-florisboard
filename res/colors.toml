@@ -11,6 +11,7 @@ on-surface = "rgba(248,248,242,1)"  #typically default on variants
 on-surface-variant = "rgba(196,196,192,1)"
 shape = "rounded-corner(8dp,8dp,8dp,8dp)"   #typically default on variants
 shape-variant = "rounded-corner(12dp,12dp,12dp,12dp)" #typically default on variants
+shadow = "2dp"
 
 [cyan]
 primary = "rgba(124,208,226,1)"
@@ -79,3 +80,9 @@ secondary-variant = "rgba(241,250,140,1)"
 surface = "rgba(117,122,68,1)"
 surface-variant = "rgba(241,250,140,1)"
 on-surface-variant = "rgba(241,250,140,1)"
+
+[plainborderless]
+surface = "rgba(40,42,54,1)"
+shadow = "0dp"
+
+#TODO include borderless version of all colors?

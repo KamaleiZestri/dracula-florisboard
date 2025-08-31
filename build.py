@@ -3,7 +3,6 @@ import json
 import shutil
 import copy
 import os
-import zipfile
 
 # TODO read from extension file
 version = "3.0.0"
@@ -15,7 +14,6 @@ os.mkdir("out")
 # load resources
 colorsDict:dict = tomllib.load(open("res/colors.toml", "rb"))
 baseJSON:dict = json.load(open("res/base.json", "rb"))
-
 
 #load base.json. build all normal color themes.
 draculaNormalThemes:dict = {} 
@@ -32,10 +30,6 @@ for colorKey, color in colorsDict.items():
     for key in theme:
         outJSON["@defines"][f"--{key}"] = theme[key]
     draculaNormalThemes[colorKey] = outJSON
-        
-
-#TODO include borderless version of all colors
-
 
 # build theme
 os.mkdir("out/dracula")

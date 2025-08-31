@@ -7,7 +7,7 @@
         "background": "var(--surface)",
         "foreground": "var(--on-surface)",
         "font-size": "22sp",
-        "shadow-elevation": "2dp",
+        "shadow-elevation": "var(--shadow)",
         "shape": "var(--shape)"
     },
     "key[code=10]": {
@@ -46,7 +46,7 @@
         "background": "var(--primary)",
         "foreground": "var(--on-surface)",
         "font-size": "22sp",
-        "shadow-elevation": "2dp",
+        "shadow-elevation": "var(--shadow)",
         "shape": "var(--shape)"
     },
     "key-popup-element": {
@@ -59,7 +59,7 @@
     "smartbar-primary-actions-toggle": {
         "background": "var(--surface)",
         "foreground": "var(--on-surface)",
-        "shadow-elevation": "2dp",
+        "shadow-elevation": "var(--shadow)",
         "shape": "circle()"
     },
     "smartbar-shared-actions-toggle": {
@@ -138,7 +138,7 @@
         "background": "var(--surface)",
         "foreground": "var(--on-surface)",
         "font-size": "14sp",
-        "shadow-elevation": "2dp",
+        "shadow-elevation": "var(--shadow)",
         "shape": "var(--shape-variant)",
         "margin": "8dp 8dp 8dp 8dp",
         "padding": "10dp 10dp 10dp 10dp"
@@ -147,7 +147,7 @@
         "background": "var(--surface)",
         "foreground": "var(--on-surface)",
         "font-size": "14sp",
-        "shadow-elevation": "2dp",
+        "shadow-elevation": "var(--shadow)",
         "shape": "var(--shape-variant)",
         "margin": "8dp 8dp 8dp 8dp",
         "padding": "10dp 10dp 10dp 10dp"
@@ -156,7 +156,7 @@
         "background": "var(--surface-variant)",
         "foreground": "var(--on-surface)",
         "font-size": "18sp",
-        "shadow-elevation": "2dp",
+        "shadow-elevation": "var(--shadow)",
         "shape": "var(--shape-variant)",
         "margin": "8dp 8dp 8dp 8dp",
         "padding": "10dp 10dp 10dp 10dp"
@@ -185,7 +185,7 @@
         "background": "rgba(117,117,117,1)",
         "foreground": "var(--on-surface)",
         "font-size": "22sp",
-        "shadow-elevation": "2dp",
+        "shadow-elevation": "var(--shadow)",
         "shape": "var(--shape)"
     },
     "media-emoji-tab": {
