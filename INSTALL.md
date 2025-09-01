@@ -1,14 +1,25 @@
 ### [FlorisBoard](https://github.com/florisboard/florisboard)
 
-#### Download using Git
+#### Download directly
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+Download the [prebuilt release](https://github.com/KamaleiZestri/dracula-florisboard/releases) on Github.
 
-    git clone https://github.com/dracula/florisboard.git
+#### Build using Git and Python
 
-#### Download manually
+If you are a git user, you can install the theme and keep up to date by:
 
-Download using the [GitHub .zip download](https://github.com/dracula/florisboard/archive/master.zip) option and unzip them.
+1. Cloning the repo:
+
+    `git clone https://github.com/dracula/florisboard.git`
+
+2. Navigating to the directory:
+    
+    `cd dracula`
+
+3. Running build.py:
+
+    `python build.py`
+
 
 #### Installing theme
 
