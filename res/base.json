@@ -115,8 +115,16 @@
         "foreground": "var(--surface)"
     },
     "smartbar-action-tile": {
+        "background": "var(--surface)",
         "foreground": "var(--on-background)",
-        "font-size": "16sp"
+        "font-size": "14sp",
+        "margin": "6dp",
+        "padding": "6dp",
+        "shape": "var(--shape)",
+        "text-align": "center"
+    },
+    "smartbar-action-tile:disabled": {
+        "background": "var(--background)"
     },
     "smartbar-actions-overflow-customize-button": {
         "foreground": "var(--background)",
@@ -158,11 +166,10 @@
         "font-size": "18sp",
         "shadow-elevation": "var(--shadow)",
         "shape": "var(--shape-variant)",
-        "margin": "8dp 8dp 8dp 8dp",
-        "padding": "10dp 10dp 10dp 10dp"
+        "margin": "8dp"
     },
     "clipboard-item-action": {
-        "padding": "3dp 5dp 0dp 5dp"
+        "padding": "12dp"
     },
     "clipboard-item-timestamp": {
         "foreground": "var(--on-surface)",
