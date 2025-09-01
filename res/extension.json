@@ -1,11 +1,11 @@
 {
   "$": "ime.extension.theme",
   "meta": {
-    "id": "io.github.venem",
+    "id": "io.github.dracula",
     "version": "0.3.14",
     "title": "Dracula",
     "maintainers": [
-      "Venem"
+      "Venem", "KamaleiZestri"
     ],
     "license": "MIT"
   },
@@ -14,56 +14,56 @@
       "id": "draculapurple",
       "label": "Dracula Purple",
       "authors": [
-        "venem"
+        "venem", "dhampirdamsel"
       ]
     },
     {
       "id": "draculaorange",
       "label": "Dracula Orange",
       "authors": [
-        "venem"
+        "venem", "dhampirdamsel"
       ]
     },
     {
       "id": "draculaplain",
       "label": "Dracula Plain",
       "authors": [
-        "venem"
+        "venem", "dhampirdamsel"
       ]
     },
     {
       "id": "draculacyan",
       "label": "Dracula Cyan",
       "authors": [
-        "venem"
+        "venem", "dhampirdamsel"
       ]
     },
     {
       "id": "draculapink",
       "label": "Dracula Pink",
       "authors": [
-        "venem"
+        "venem", "dhampirdamsel"
       ]
     },
     {
       "id": "draculagreen",
       "label": "Dracula Green",
       "authors": [
-        "venem"
+        "venem", "dhampirdamsel"
       ]
     },
     {
       "id": "draculared",
       "label": "Dracula Red",
       "authors": [
-        "venem"
+        "venem", "dhampirdamsel"
       ]
     },
     {
       "id": "draculayellow",
       "label": "Dracula Yellow",
       "authors": [
-        "venem"
+        "venem", "dhampirdamsel"
       ]
     },
     {
