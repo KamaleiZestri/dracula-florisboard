@@ -10,7 +10,7 @@ Other colors visible under [screenshots](./screenshots/).
 All instructions can be found at [draculatheme.com/florisboard](https://draculatheme.com/florisboard).
 
 ### Note
-FlorisBoard v0.3.14 onwards uses a new theming system so any older version should use the ([legacy](https://github.com/dracula/florisboard/tree/legacy)) install.
+FlorisBoaord v0.5.0 onwards uses a [new theming system](https://github.com/florisboard/florisboard/pull/2855) so older versions of this theme are available under [legacy](./legacy/).
 
 ## Colours
 We use the Dracula colours in our theme, however some are modified to be lighter when a key is pressed.
@@ -22,9 +22,9 @@ In the case of more recent versions of the theme, each key is coloured. To get t
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/florisboard/graphs/contributors).
 
-| [![Venem](https://github.com/venem.png?size=100)](https://github.com/venem) | [![Lynn](https://github.com/dhampirdamsel.png?size=100)](https://github.com/dhampirdamsel) |
-| ---                                                                           | ---                                                                                             |
-| [Venem](https://github.com/venem)                                           | [Lynn](https://github.com/dhampirdamsel)                                                    |
+| [![Venem](https://github.com/venem.png?size=100)](https://github.com/venem) | [![KamaleiZestri](https://github.com/kamaleizestri.png?size=100)](https://github.com/kamaleizestri) | [![Lynn](https://github.com/dhampirdamsel.png?size=100)](https://github.com/dhampirdamsel) |
+| ---   | ---   | --- | 
+| [Venem](https://github.com/venem)    | [KamaleiZestri](https://github.com/kamaleizestri) | [Lynn](https://github.com/dhampirdamsel)                                                    |
 
 ## Community
 
