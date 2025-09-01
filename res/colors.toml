@@ -84,5 +84,3 @@ on-surface-variant = "rgba(241,250,140,1)"
 [plainborderless]
 surface = "rgba(40,42,54,1)"
 shadow = "0dp"
-
-#TODO include borderless version of all colors?
