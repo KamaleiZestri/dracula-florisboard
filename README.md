@@ -2,7 +2,8 @@
 
 > A dark theme for [FlorisBoard](https://github.com/florisboard/florisboard).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshots/draculaplain.png)
+Other colors visible under [screenshots](./screenshots/).
 
 ## Install
 
