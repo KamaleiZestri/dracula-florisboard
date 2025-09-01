@@ -2,8 +2,9 @@
   "$": "ime.extension.theme",
   "meta": {
     "id": "io.github.dracula",
-    "version": "0.3.14",
+    "version": "3.0.0",
     "title": "Dracula",
+    "description": "A dark theme for FlorisBoard.",
     "maintainers": [
       "Venem", "KamaleiZestri"
     ],
